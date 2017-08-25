@@ -1,1 +1,2 @@
-HackerRank Submissions - Omar Sinan
+# HackerRank Submissions
+###### Omar Sinan
