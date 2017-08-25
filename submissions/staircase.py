@@ -2,9 +2,7 @@
 
 import sys
 
-
 n = int(raw_input().strip())
-
 spaces = n - 1
 hashes = 1
 
