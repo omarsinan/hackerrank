@@ -2,7 +2,6 @@
 
 import sys
 
-
 n = int(raw_input().strip())
 a = []
 for a_i in xrange(n):
