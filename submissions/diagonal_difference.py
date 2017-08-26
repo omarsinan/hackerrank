@@ -1,3 +1,7 @@
+# author: Omar Sinan
+# date: 25/08/2017
+# description: HackerRank's "Diagonal Difference" Coding Challenge
+
 #!/bin/python
 
 import sys
