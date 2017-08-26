@@ -6,7 +6,7 @@
 ##### One challenge of my choice
 - [Compress the String!](submissions/compress_the_string.py "Compress the String!")
 ---
-##### Extra Challenges
+##### Extra challenges
 - [Diagonal Difference](submissions/diagonal_difference.py "Diagonal Difference")
 - [Staircase](submissions/staircase.py "Staircase")
 - [Mini-Max Sum](submissions/mini_max_sum.py "Mini-Max Sum")
