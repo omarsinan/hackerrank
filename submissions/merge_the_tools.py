@@ -3,9 +3,7 @@
 # description: HackerRank's "Merge the Tools!" Coding Challenge
 
 def merge_the_tools(string, k):
-    n = len(string)/k
     segs = []
-    
     for i in range(0, len(string), k):
         segs.append(string[i : i + k])
         
