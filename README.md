@@ -5,4 +5,5 @@
 - [Mini-Max Sum](submissions/mini_max_sum.py "Mini-Max Sum")
 - [Birthday Cake Candles](submissions/birthday_cake_candles.py "Birthday Cake Candles")
 - [Time Conversion](submissions/time_conversion.py "Time Conversion")
+- [Grading Students](submissions/grading_students.py "Grading Students")
 ###### Omar Sinan
