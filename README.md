@@ -1,5 +1,8 @@
 # HackerRank Submissions
+### 15-129 Freshman Immigration Course
 - [The Minnion Game](submissions/the_minnion_game.py "The Minnion Game")
+---
+### Extra Challenges
 - [Diagonal Difference](submissions/diagonal_difference.py "Diagonal Difference")
 - [Staircase](submissions/staircase.py "Staircase")
 - [Mini-Max Sum](submissions/mini_max_sum.py "Mini-Max Sum")
