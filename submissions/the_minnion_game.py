@@ -1,3 +1,7 @@
+# author: Omar Sinan
+# date: 25/08/2017
+# description: HackerRank's "The Minnion Game" Coding Challenge
+
 def minion_game(string):
     k = s = 0 #kevin: vowels
     for i, val in enumerate(string):
