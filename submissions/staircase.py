@@ -1,5 +1,5 @@
 # author: Omar Sinan
-# date: 25/08/2017
+# date: 26/08/2017
 # description: HackerRank's "Staircase" Coding Challenge
 
 #!/bin/python
