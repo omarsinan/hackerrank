@@ -7,8 +7,7 @@
 import sys
 
 def birthdayCakeCandles(n, ar):
-    maxH = max(ar)
-    return ar.count(maxH)
+    return ar.count(max(ar))
 
 n = int(raw_input().strip())
 ar = map(int, raw_input().strip().split(' '))
