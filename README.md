@@ -1,8 +1,8 @@
 # HackerRank Submissions
-
 - [The Minnion Game](submissions/the_minnion_game.py "The Minnion Game")
-- [Diagonal Difference](https://github.com/omarsinan/hackerrank/blob/master/submissions/diagonal_difference.py "Diagonal Difference")
-- [Staircase](https://github.com/omarsinan/hackerrank/blob/master/submissions/staircase.py "Staircase")
-- [Mini-Max Sum](https://github.com/omarsinan/hackerrank/blob/master/submissions/mini_max_sum.py "Mini-Max Sum")
-
+- [Diagonal Difference](submissions/diagonal_difference.py "Diagonal Difference")
+- [Staircase](submissions/staircase.py "Staircase")
+- [Mini-Max Sum](submissions/mini_max_sum.py "Mini-Max Sum")
+- [Birthday Cake Candles](submissions/birthday_cake_candles.py "Birthday Cake Candles")
+- [Time Conversion](submissions/time_conversion.py "Time Conversion")
 ###### Omar Sinan
