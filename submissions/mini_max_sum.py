@@ -1,4 +1,3 @@
-
 # author: Omar Sinan
 # date: 26/08/2017
 # description: HackerRank's "Mini-Max Sum" Coding Challenge
