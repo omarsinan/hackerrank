@@ -14,4 +14,5 @@
 - [Time Conversion](submissions/time_conversion.py "Time Conversion")
 - [Grading Students](submissions/grading_students.py "Grading Students")
 - [Day 6: Let's Review](submissions/day_6.py "Day 6: Let's Review")
+- [Bot saves princess](submissions/bot_saves_princess.py "Bot saves princess")
 ###### Omar Sinan
