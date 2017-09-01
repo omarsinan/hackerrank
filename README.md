@@ -13,4 +13,5 @@
 - [Birthday Cake Candles](submissions/birthday_cake_candles.py "Birthday Cake Candles")
 - [Time Conversion](submissions/time_conversion.py "Time Conversion")
 - [Grading Students](submissions/grading_students.py "Grading Students")
+- [Day 6: Let's Review](submissions/day_6.py "Day 6: Let's Review")
 ###### Omar Sinan
