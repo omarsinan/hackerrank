@@ -15,4 +15,5 @@
 - [Grading Students](submissions/grading_students.py "Grading Students")
 - [Day 6: Let's Review](submissions/day_6.py "Day 6: Let's Review")
 - [Bot saves princess](submissions/bot_saves_princess.py "Bot saves princess")
+- [Fibonacci Modified](submissions/fibonacci_modified.py "Fibonacci Modified")
 ###### Omar Sinan
